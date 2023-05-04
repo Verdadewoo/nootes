@@ -6,4 +6,4 @@ This is a simple php notes app. The purpose of this webiste is for users to send
 * Like letters
 * Send letters
 ## output
-![output](sample.PNG)
+![output](sample.png)
