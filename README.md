@@ -5,5 +5,8 @@ This is a simple php notes app. The purpose of this webiste is for users to send
 * Filter data
 * Like letters
 * Send letters
-## output
+## Access
+The sample website is hosted at this site for trying out.
+http://nootes.epizy.com/
+## Output
 ![output](sample.png)
