@@ -10,3 +10,5 @@ The sample website is hosted at this site for trying out.
 http://nootes.epizy.com/
 ## Output
 ![output](sample.png)
+
+this is a modified code using someones code here in github. unfortunately i can't find the original. I'll update it to give credits when possible. New to github.
